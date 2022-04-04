@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<schedules schedule_id='1' year='2019' />
+	<schedules schedule_id='2' year='2020' />
+	<schedules schedule_id='3' year='2021' />
+</dataset>

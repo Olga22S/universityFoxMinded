@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<schedules_month_schedules schedule_id='1'
+		month_id='1' />
+	<schedules_month_schedules schedule_id='1'
+		month_id='2' />
+	<schedules_month_schedules schedule_id='2'
+		month_id='1' />
+	<schedules_month_schedules schedule_id='2'
+		month_id='2' />
+</dataset>

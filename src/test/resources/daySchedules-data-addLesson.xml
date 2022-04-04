@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<day_schedules_lessons day_schedule_id='1'
+		lesson_id='1' />
+	<day_schedules_lessons day_schedule_id='1'
+		lesson_id='2' />
+	<day_schedules_lessons day_schedule_id='2'
+		lesson_id='3' />
+	<day_schedules_lessons day_schedule_id='2'
+		lesson_id='4' />
+	<day_schedules_lessons day_schedule_id='3'
+		lesson_id='1' />
+</dataset>

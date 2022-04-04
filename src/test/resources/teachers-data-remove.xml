@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<disciplines discipline_id='1' name='Economy' />
+	<disciplines discipline_id='2' name='Mathematics' />
+	<disciplines discipline_id='3' name='Informatics' />
+	<teachers teacher_id='1' first_name='Tamara'
+		last_name='Nazarova' />
+	<teachers teacher_id='2' first_name='Olga' last_name='Petrova' />
+	<teachers teacher_id='3' first_name='Sergey' last_name='Koval' />
+	<teachers teacher_id='4' first_name='Elena'
+		last_name='Tolstova' />
+	<teachers_disciplines teacher_id='1'
+		discipline_id='2' />
+	<teachers_disciplines teacher_id='1'
+		discipline_id='3' />
+	<teachers_disciplines teacher_id='2'
+		discipline_id='1' />
+	<teachers_disciplines teacher_id='3'
+		discipline_id='1' />
+	<teachers_disciplines teacher_id='3'
+		discipline_id='3' />
+	<teachers_disciplines teacher_id='4'
+		discipline_id='2' />
+</dataset>

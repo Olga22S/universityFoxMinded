@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<lessons lesson_id='1' discipline_id='1' audience_id='1'
+		teacher_id='2' group_id='1' lesson_time_id='1' />
+	<lessons lesson_id='2' discipline_id='2' audience_id='2'
+		teacher_id='1' group_id='2' lesson_time_id='2' />
+	<lessons lesson_id='3' discipline_id='3' audience_id='2'
+		teacher_id='3' group_id='2' lesson_time_id='3' />
+</dataset>
